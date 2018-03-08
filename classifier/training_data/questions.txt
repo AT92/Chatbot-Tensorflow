@@ -1,0 +1,751 @@
+Sagen Sie mir bitte, wo man einen Parkplatz finden kann! | 0
+Sagen Sie mir, wo man einen Parkplatz finden kann! | 0
+Sagen Sie mir bitte, wo man den Parkplatz finden kann! | 0
+Sagen Sie mir, wo man den Parkplatz finden kann! | 0
+Sagen Sie mir, wo man den Parkplatz an der hsd finden kann! | 0
+Sagen Sie mir, wo man an der Hochschule den Parkplatz finden kann! | 0
+Sagen Sie mir, wo man an der Hochschule die Tiefgarage finden kann! | 0
+Sage mir, wo man an der Hochschule den Parkplatz finden kann! | 0
+Sage mir, wo man an der Hochschule die Tiefgarage finden kann! | 0
+Sage mir bitte, wo man an der Hochschule den Parkplatz finden kann! | 0
+Sage mir bitte, wo man an der Hochschule die Tiefgarage finden kann! | 0
+Sage bitte mir, wo man an der Hochschule den Parkplatz finden kann! | 0
+Sage bitte mir, wo man an der Hochschule die Tiefgarage finden kann! | 0
+Ich wollte Sie fragen, wo ich die Parkplätze finden kann! | 0
+Ich wollte Sie fragen, wo ich die Parkplätze finden kann! | 0
+Ich wollte dich fragen, wo ich die Parkplätze finden kann! | 0
+Ich wollte dich fragen, wo ich die Parkplätze finden kann! | 0
+Ich wollte dich fragen, wo die Parkplätze zu finden sind! | 0
+Ich wollte fragen, wo an der Hochschule die Parkplätze zu finden sind! | 0
+Ich wollte dich fragen, wo ich die Parkplätze zu finden wären! | 0
+Ich will dich fragen, wo die Parkplätze zu finden sind! | 0
+Ich will dich fragen, wo ich die Parkplätze zu finden wären! | 0
+Ich will wissen, wo die Parkplätze an der Hochschule zu finden sind! | 0
+Ich will wissen, wo ich die Parkplätze zu finden wären! | 0
+Ich wollte wissen, wo die Parkplätze zu finden sind! | 0
+Ich wollte wissen, wo ich die Parkplätze zu finden wären! | 0
+Ich würde gerne wissen, wo die Parkplätze zu finden sind! | 0
+Ich würde gerne wissen, wo ich die Parkplätze zu finden wären! | 0
+Sage mir, wo an der Hochschule die Parkplätze sind? | 0
+Sage mir bitte, wo an der HSD die Parkplätze sind? | 0
+Sage mir, wo der Parkplatz an der HSD ist? | 0
+Sage mir, wo der Parkplatz an der HSD wäre? | 0
+Sage mir, wo ich an der hsd den Parkplatz finden kann? | 0
+Ich wollte wissen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich will wissen, wo sich die Parkplätze an der HSD befinden? | 0
+Ich wollte fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich will fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich wollte Sie fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich will Sie fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich wollte dich fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich will dich fragen, wo sich die Parkplätze an der Hochschule befinden? | 0
+Ich wollte den Parkplatzort erfragen! | 0
+Mich interesseiert, wo die Einfahrt zur Tiefgarage wäre? | 0
+Mich interesseiert, wo die Einfahrt zur Tiefgarage ist? | 0
+Mich interesseiert, wo an der HSD die Einfahrt zur Tiefgarage ist? | 0
+Mich interesseiert, wo an der HSD die Einfahrt zur Tiefgarage wäre? | 0
+Mich würde interesseieren, wo die Einfahrt zur Tiefgarage wäre? | 0
+Mich würde interesseieren, wo die Einfahrt zur Tiefgarage ist? | 0
+Mich würde interesseieren, wo an der HSD die Einfahrt zur Tiefgarage ist? | 0
+Mich würde interesseieren, wo an der HSD die Einfahrt zur Tiefgarage wäre? | 0
+Ich will den Parkplatzort der Hochschule erfragen! | 0
+Ich wollte Sie über den Parkplatzort an der HSD erfragen! | 0
+Ich will Sie über den Parkplatzort erfragen! | 0
+Wie komme ich in die Garage? | 0
+Ich wollte fragen, wo sich der Parkplatz der HSD befindet. | 0
+Wie komme ich an der HSD in die Garage? | 0
+Ich will Sie über den Parkplätzeort erfragen! | 0
+Ich will Sie über den Parkplätzeort der HSD erfragen! | 0
+Ich wollte Sie über den Parkplätzeort erfragen! | 0
+Ich will Sie über den Parkplatzort an der HSD erfragen! | 0
+Wie kommt man in die Garage rein? | 0
+Wie kommt man in die Garage der HSD rein? | 0
+Wie kommt man in die Garage an der HSD rein? | 0
+Wie kommt man an der HSD in die Garage rein? | 0
+Wie komme ich an der HSD in die Garage rein? | 0
+Wie fährt man in die Garage rein? | 0
+Wie fährt man in die Garage an der HSD rein? | 0
+Wie fährt man an der HSD in die Garage rein? | 0
+Wo soll man in die Garage reinfahren? | 0
+Mich interessiert, wo man in die Garage der HSD reinfahren soll? | 0
+Wo fährt man in die Garage rein? | 0
+Wo fährt man in die Garage an der HSD rein? | 0
+Wo fährt man an der HSD in die Garage rein? | 0
+Sagen Sie mir bitte, wo sich die Parkplätze befinden? | 0
+Sagen Sie mir, wo sich die Parkplätze der HSD befinden? | 0
+Sagen Sie mir bitte, wo sich der Parkplatz befindet? | 0
+Sage mir bitte, wo sich die Parkplätze befinden! | 0
+Sage mir bitte, wo sich der Parkplatz befinden! | 0
+Kannst du sagen wo ich parken könnte? | 0
+Können Sie sagen wo ich an der HSD parken könnte? | 0
+Könnten Sie sagen wo ich an der HSD parken könnte? | 0
+Könnten Sie sagen wo ich an der HSD parken kann? | 0
+Können Sie sagen wo ich an der HSD parken kann? | 0
+Können Sie sagen wo man parken kann? | 0
+Ich will wissen wo ich parken kann! | 0
+Können Sie sagen wo wir an der HSD parken könnten? | 0
+Können Sie sagen wo wir an der HSD parken können? | 0
+Könnten Sie sagen wo wir an der HSD parken könnten? | 0
+Könnten Sie sagen wo wir an der HSD parken können? | 0
+Wo befinden sich die Parkplätze an der HSD? | 0
+Wo befinden sich die Parkplätze? | 0
+Wo befinden sich die Parkplätze der HSD? | 0
+Wo befindet sich der Parkplatz an der HSD? | 0
+Wo befinde sich der Parkplatz der HSD? | 0
+Wo sind die Parkplätze an der UNI? | 0
+Wo sind die Parkplätze an der Hochschule Düsseldorf? | 0
+Wo ist der Parkplatz an der UNI? | 0
+Wo ist der Parkplatz an der Hochschule Düsseldorf? | 0
+Gibt es an der HSD Parkplätze? | 0
+Gibt es an der HSD einen Parkplatz? | 0
+Gibt es an der HSD Parkplätze? | 0
+Gibt es an der HSD eine Garage? | 0
+Gibt es an der HSD einen Parkplatz? | 0
+Gibt es an der Uni Parkplätze? | 0
+Gibt es an der Uni einen Parkplatz? | 0
+Kann man an der Hochschule Düsseldorf parken? | 0
+Kann man an der HSD parken? | 0
+Kann man an der Uni parken? | 0
+Parkmöglichkeiten Uni? | 0
+Parkmöglichkeiten HSD? | 0
+Gibt es an der Hochschule Düsseldorf eine Parkmöglichkeit? | 0
+Gibt es an der Uni eine Parkmöglichkeit? | 0
+Gibt es an der HSD eine Parkmöglichkeit? | 0
+Wo kann man parken? | 0
+Gibt es Parkplätze an der HSD? | 0
+Gibt es Parkplätze an der Uni? | 0
+Gibt es Parkplätze in der Hochschule Düsseldorf? | 0
+Wo sind die Parkmöglichkeiten an der HSD? | 0
+Wo kann man an der HSD parken? | 0
+Wo ist die Einfahrt für die Parkplätze? | 0
+Wo könnte ich an der Hochschule mein Auto abstellen? | 0
+Wo kann ich an der Hochschule mein Auto abstellen? | 0
+Wo kann ich an der Hochschule Düsseldorf mein Auto abstellen? | 0
+Wo kann ich an der Hochschule Düsseldorf mein Auto parken? | 0
+Wo kann ich an der Hochschule mein Auto parken? | 0
+Wo kann ich an der HSD das Auto stehen lassen? | 0
+Wo könnte ich an der HSD das Auto stehen lassen? | 0
+Wo kann ich mein Auto stehen lassen? | 0
+Wo könnten wir an der HSD unser Auto stehen lassen? | 0
+Wo könnte ich an der HSD mein Auto stehen lassen? | 0
+Wo kann ich das Auto stehen lassen? | 0
+Ich wollte fragen, wo wir das Auto stehen lassen können? | 0
+Ich wollte wissen, wo wir das Auto stehen lassen können? | 0
+Ich will wissen, wo wir das Auto stehen lassen können? | 0
+Ich wollte wissen, wo wir das Auto stehen lassen dürfen? | 0
+Ich will wissen, wo wir das Auto stehen lassen dürfen? | 0
+Wo könnte ich das Auto stehen lassen? | 0
+Wo könnten wir unser Auto parken? | 0
+Wo könnten wir unser Auto an der HSD parken? | 0
+Ich will wissen, wo wir unser Auto an der HSD parken können? | 0
+Ich will wissen, wo wir unseren Wagen an der HSD parken können? | 0
+Mich interessiert, wo wir unseren Wagen an der HSD parken können? | 0
+Ich wollte fragen, wo ich mein Auto parken kann? | 0
+Wo gibt es an der HSD eine Möglichkeit sein Auto zu parken? | 0
+Wo gibt es eine Möglichkeit sein Auto zu parken? | 0
+Ich will fragen, wo es eine Möglichkeit sein Auto zu parken gibt? | 0
+Welche Parkmöglichkeiten stehen an der HSD uns zur Verfügung? | 0
+Welche Parkmöglichkeiten stehen uns an der HSD zur Verfügung? | 0
+Welche Parkmöglichkeiten stehen an der HSD zur Verfügung? | 0
+Stehen Parkmöglichkeiten an der HSD zur Verfügung? | 0
+Stehen Parkplätze an der HSD zur Verfügung? | 0
+Gibt es an der HSD eine Garage? | 0
+Gibt es am Campus Derendorf eine Garage? | 0
+Steht ein Parkplatz an der HSD zur Verfügung? | 0
+Steht ein Parkplatz am Campus Derendorf zur Verfügung? | 0
+Welche Parkmöglichkeiten stehen zur Verfügung? | 0
+Welche Parkmöglichkeiten stehen an der HSD zur Verfügung? | 0
+Ich möchte mein Auto an der HSD parken, wo kann ich dies tun? | 0
+Ich möchte mein Auto parken, wo kann ich dies tun? | 0
+Ich möchte mein Auto an der HSD parken, wo kann ich dies machen? | 0
+Ich möchte mein Auto parken, wo kann ich dies machen? | 0
+Ich will mein Auto an der HSD parken, wo kann ich dies tun? | 0
+Ich will mein Auto parken, wo kann ich dies tun? | 0
+Ich will mein Auto an der HSD parken, wo kann ich dies machen? | 0
+Ich will mein Auto parken, wo kann ich dies machen? | 0
+Wo können wir das Auto abstellen? | 0
+Wo kann ich das Auto abstellen? | 0
+Wo kann ich das Auto an der HSD abstellen? | 0
+Wo kann ich an der HSD das Auto abstellen? | 0
+Wo kann ich den Wagen abstellen? | 0
+Wo können wir unser Auto abstellen? | 0
+Wo kann ich mein Auto abstellen? | 0
+Wo kann ich an der HSD mein Auto abstellen? | 0
+Wo kann ich mein Auto an der HSD abstellen? | 0
+Wo kann ich an der HSD mein Wagen abstellen? | 0
+Wo können wir eine Parkmöglichkeit finden? | 0
+Wo können wir an der HSD eine Parkmöglichkeit finden? | 0
+Wo kann ich an der HSD mein Auto parken? | 0
+Wo kann ich an der HSD meinen Wagen parken? | 0
+Wo kann ich an der HSD mein Fahrzeug parken? | 0
+Wo gibt es Parkmöglichkeiten an der HSD? | 0
+Ich will wissen, wo ich parken kann? | 0
+Ich will wissen, wo ich parken könnte? | 0
+Wo an der HSD können wir parken? | 0
+Wo können wir unser Auto parken? | 0
+Wo können wir unseren Wagen parken? | 0
+Wo kann ich mein Auto parken? | 0
+Wo kann ich meinen Wagen parken? | 0
+Wo kann ich meinen Wagen abstellen? | 0
+Wo findet man einen Parkplatz? | 0
+Wo findet man Parkplätze an der HSD? | 0
+Welche Parkmöglichkeiten haben wir? | 0
+Wo können wir Parkplätze finden? | 0
+Wo gibt es Parkplätze an der HSD? | 0
+Wo gibt es Parkmöglichkeiten an der HSD? | 0
+Wo gibt es Parkplätze? | 0
+Wo gibt es an der HSD Parkplätze? | 0
+Wo gibt es Parkplätze an der HSD? | 0
+Wo kann man einen Parkplatz an der HSD finden? | 0
+Wo gibt es Parkmöglichkeiten? | 0
+Wo kann man die Parkplätze finden? | 0
+Wo kann man eine Parkmöglichkeit finden? | 0
+Wo können wir parken? | 0
+Wo können wir an der HSD das Auto abstellen? | 0
+Wo können wir an der HSD parken? | 0
+Wo kann ich an der HSD parken? | 0
+Wo kann ich parken? | 0
+Wo sind an der HSD die Parkplätze zu finden? | 0
+Wo sind die Parkplätze an der HSD zu finden? | 0
+Wo sind die Parkplätze zu finden? | 0
+Wo können wir an der HSD die Parkplätze finden? | 0
+Wo kann ich an der HSD die Parkplätze finden? | 0
+Wo können wir die Parkplätze finden? | 0
+Wo kann ich die Parkplätze finden? | 0
+Wo sind die Parkplätze? | 0
+Wo kann man die Parkplätze an der HSD finden? | 0
+Wo sind die Parkplätze an der HSD? | 0
+Können Sie mir bitte die Parkplatz Anzahl sagen? | 1
+Können Sie mir bitte die Parkplatz Anzahl der HSD sagen? | 1
+Könnten Sie mir bitte die Anzahl der Parkplätze an der HSD sagen? | 1
+Könntest du mir bitte die Anzahl der Parkplätze an der HSD sagen? | 1
+Kannst du mir bitte die Anzahl der Parkplätze an der HSD sagen? | 1
+Kannst du mir bitte die Anzahl der Parkplätze sagen? | 1
+Kannst du mir bitte die Anzahl der Parkplätze an der HSD sagen? | 1
+Kannst du mir bitte die Parkplatz Anzahl sagen? | 1
+Könnten Sie mir die Anzahl der Parkplätze sagen? | 1
+Kannst du mir sagen wie viele Autos auf den Parkplatz passen würden? | 1
+Kannst du mir sagen wie viele Parkplätze ihr hättet? | 1
+Könntest du mir sagen wie viele Parkplätze ihr hättet? | 1
+Könntest du mir sagen wie viele Parkplätze ihr habt? | 1
+Könnten Sie mir sagen wie viele Parkplätze Sie hätten? | 1
+Könnten Sie mir sagen wie viele Parkplätze Sie haben? | 1
+Kannst du mir sagen wie viele Parkplätze ihr habt? | 1
+Können Sie mir sagen wie viele Parkplätze Sie haben? | 1
+Was ist die Anzahl der zur Verfügung stehenden Parkplätze an der HSD? | 1
+Was ist die Anzahl der zur Verfügung stehenden Parkplätze? | 1
+Was ist die Anzahl der Parkplätze? | 1
+Was ist die Anzahl der Parkplätze an der HSD? | 1
+Ich will die Anzehl der Parkplätze an der HSD erfragen! | 1
+Wie groß ist die Anzahl der Parkplätze an der HSD? | 1
+Wie viele Autos könnten auf den HSD Parkplatz passen? | 1
+Wie groß wäre der Parkplatz an der HSD? | 1
+Wie groß wäre der Parkplatz der HSD? | 1
+Wie groß würde der Parkplatz der HSD sein? | 1
+Wie viele Autos können auf dem HSD Parkplatz gleichzeitig geparkt werden? | 1
+Wie viele Autos können auf dem HSD Parkplatz geparkt werden? | 1
+Wie viele Autos können auf dem Parkplatz gleichzeitig geparkt werden? | 1
+Wie viele Autos können auf dem Parkplatz geparkt werden? | 1
+Was ist die maximal Anzahl der Autos, welche auf den HSD Parkplatz passen würde? | 1
+Was ist die Anzahl der Autos, welche auf den HSD Parkplatz passen würde? | 1
+Was ist die maximal Anzahl der Autos, welche auf den Parkplatz passen würde? | 1
+Was ist die Anzahl der Autos, welche auf den Parkplatz passen würde? | 1
+Was ist die Anzahl der Autos, die an der HSD parken könnten? | 1
+Wie viele Autos könnten an der HSD parken? | 1
+Wie viele Autos würden an der HSD maximal parken können? | 1
+Wie viele Autos würde die HSD maximal aufnehmen können? | 1
+Wie viele Autos könnte die HSD maximal aufnehmen? | 1
+Was ist die Kapazität der Garage an der HSD? | 1
+Wie viele Autos könnte die Uni aufnehmen? | 1
+Wie viele Autos würden in die Garage der HSD passen? | 1
+Wie viele Autos könnte die HSD aufnehmen? | 1
+Ich will wissen, wie viele Autos in die Garage passen? | 1
+Wie viele Autos würden maximal in die Tiefgarage reinpassen? | 1
+Wie viele Autos würden maximal in die Tiefgarage passen? | 1
+Mich interessiert, wie viele Autos maximal in die Tiefgarage passen würden? | 1
+Wie viele Autos würden auf den Uni Parkplatz passen? | 1
+Mich interessiert, wie viele Autos auf den HSD Parkplatz passen würden? | 1
+Wie viele Autos passen in die Tiefgarage rein? | 1
+Wie viele Parkplätze hat die Tiefgarage? | 1
+Wie viele Parkplätze hat die Tiefgarage an der HSD? | 1
+Wie viele Autos können in der Uni parken? | 1
+Wie viele Autos können in der HSD parken? | 1
+Wie viele Autos können in der Garage der HSD parken? | 1
+Mich interessiert, wie viele Autos können in der Garage der HSD parken? | 1
+Anzahl der Parkplätze an der HSD? | 1
+Wie viele Autos würden auf den Hochschulparkplatz maximal passen? | 1
+Wie viele Autos würden auf den HSD-Parkplatz maximal passen? | 1
+Wie viele Autos würden auf den Hochschulparkplatz maximal rein passen? | 1
+Wie viele Autos würden auf den HSD-Parkplatz maximal rein passen? | 1
+Wie viele Autos würden auf den Hochschulparkplatz passen? | 1
+Wie viele Autos würden auf den HSD-Parkplatz passen? | 1
+Wie viele Autos würden auf den Hochschulparkplatz rein passen? | 1
+Wie viele Autos würden auf den HSD-Parkplatz rein passen? | 1
+Wie viele Autos würden auf euren Parkplatz maximal passen? | 1
+Wie viele Autos würden auf Ihren Parkplatz maximal passen? | 1
+Wie viele Autos würden auf euren Parkplatz maximal rein passen? | 1
+Wie viele Autos würden auf Ihren Parkplatz maximal rein passen? | 1
+Wie viele Autos würden auf euren Parkplatz passen? | 1
+Wie viele Autos würden auf Ihren Parkplatz passen? | 1
+Wie viele Autos würden auf euren Parkplatz rein passen? | 1
+Wie viele Autos würden auf Ihren Parkplatz rein passen? | 1
+Wie viele Autos würden maximal auf den Parkplatz passen? | 1
+Wie viele Autos passen maximal auf den Parkplatz? | 1
+Was würde die maximale Anzahl der an der HSD parkenden Autos sein? | 1
+Wie viele Autos könnten maximal an der HSD parken? | 1
+Wie viele Autos können maximal an der HSD parken? | 1
+Wie viele Autos könnten an de HSD maximal parken? | 1
+Wie viele Autos können an der HSD maximal parken? | 1
+Wie viele Autos können bei Ihnen maximal parken? | 1
+Wie viele Autos könnten bei Ihnen maximal parken? | 1
+Wie viele Autos können bei euch maximal parken? | 1
+Wie viele Autos könnten bei euch maximal parken? | 1
+Wie viele Parkplätze würden an der HSD zur Verfügung stehen? | 1
+Mich interessiert, wie viele Parkplätze die Tiefgarage hat? | 1
+Mich interessiert, wie viele Parkplätze die Tiefgarage der HSD hat? | 1
+Mich interessiert, wie viele Parkplätze die Tiefgarage an der HSD hat? | 1
+Ich wollte fragen, wie viele Parkplätze die Tiefgarage an der HSD hat? | 1
+Ich will wissen, wie viele Autos bei euch maximal parken könnten? | 1
+Wie viele Autos könnte man bei euch parken? | 1
+Ich wollte fragen, wie viele Autos man bei euch parken könnte? | 1
+Ich wollte wissen, wie viele Autos man bei euch parken könnte? | 1
+Wie viele Autos könnte man bei Ihnen parken? | 1
+Könnten Sie mir sagen, wie viele Autos bei Ihnen parken könnten? | 1
+Wie viele Parkplätze würden zur Verfügung stehen? | 1
+Wie viele Parkplätze würden in der Garage zur Verfügung stehen? | 1
+Wie viele Parkplätze würden in der Garage der HSD zur Verfügung stehen? | 1
+Wie viele Parkplätze würden in der Garage maximal zur Verfügung stehen? | 1
+Ich wollte fragen, wie viele Parkplätze bei euch zur Verfügung stehen würden? | 1
+Ich wollte fragen, wie viele Parkplätze bei Ihnen zur Verfügung stehen würden? | 1
+Ich will fragen, wie viele Parkplätze bei euch zur Verfügung stehen würden? | 1
+Ich will fragen, wie viele Parkplätze bei Ihnen zur Verfügung stehen würden? | 1
+Ich wollte wissen, wie viele Parkplätze bei euch zur Verfügung stehen würden? | 1
+Ich wollte wissen, wie viele Parkplätze bei Ihnen zur Verfügung stehen würden? | 1
+Ich will wissen, wie viele Parkplätze bei euch zur Verfügung stehen würden? | 1
+Ich will wissen, wie viele Parkplätze bei Ihnen zur Verfügung stehen würden? | 1
+Wie viele Autos würden bei Ihnen parken können? | 1
+Wie viele Autos würden bei euch parken können? | 1
+Wie viele Parkplätze hätte die HSD? | 1
+Wie viele Autos könnten bei Ihnen parken? | 1
+Ich wollte fragen, wie viele Autos bei Ihnen parken könnten? | 1
+Wie viele Autos könnten bei euch parken? | 1
+Wie viele Autos könnten an der HSD parken? | 1
+Wie viele Autos passen an der HSD in die Tiefgarage? | 1
+Wie viele Autos passen in die Tiefgarage? | 1
+Wie viele Autos passen in den Parkplatz? | 1
+Wie groß ist der Parkplatz an der HSD? | 1
+Ich würde gerne wissen, wie groß die Garage an der HSD ist? | 1
+Ich hätte gerne gewusst, wie groß die Garage an der HSD ist? | 1
+Ich hätte gerne gewusst, wie groß die Tiefarage an der HSD ist? | 1
+Wie groß ist die Tiefgarage an der HSD? | 1
+Ich hätte gerne gewusst, wie groß der Parkplatz sei? | 1
+Ich hätte gerne gewusst, wie groß der Parkplatz ist? | 1
+Wie hoch ist die Parkplatzanzahl? | 1
+Kannst du die Anzahl der Parkplätze sagen? | 1
+Könntest du die Anzahl der Parkplätze sagen? | 1
+Könnten Sie die Anzahl der Parkplätze sagen? | 1
+Können Sie die Anzahl der Parkplätze sagen? | 1
+Mich interessiert, wie viele Autos bei Ihnen parken können? | 1
+Mich interessiert, wie viele Autos bei Ihnen parken könnten? | 1
+Wie viele Autos können bei euch parken? | 1
+Wie viele Autos können an der HSD parken? | 1
+Was ist die Anzahl der Parkplätze an der HSD? | 1
+Wie hoch ist die Anzahl der zur Verfügung stehenden Parkplätze? | 1
+Wie viele Parkplätze gibt es? | 1
+Wie viele Parkplätze habt ihr? | 1
+Wie viele Parkplätze haben Sie? | 1
+Wie viele Parkplätze gibt es an der HSD? | 1
+Wie hoch ist die Anzahl der Parkplätze an der HSD? | 1
+Wie hoch ist die Anzahl der Parkplätze? | 1
+Wie viele Parkplätze stehen zur Verfügung? | 1
+Wie viele Parkplätze stehen an der HSD zur Verfügung? | 1
+Wie viele Parkplätze hat die HSD? | 1
+Wann ist die Mensa der HSD offen sein? | 2
+Ich wollte wissen, wann die Öffnungszeiten der Mensa an der HSD sind? | 2
+Wann würden die Öffnungszeiten der Mensa an der HSD sein? | 2
+Wann würde die Mensa der HSD offen sein? | 2
+Wann könnten wir in die Mensa der HSD essen gehen? | 2
+Wann könnte ich in die Mensa der HSD essen gehen? | 2
+Wann kann ich in die Mensa der HSD essen gehen? | 2
+Ich wollte fragen, wann ich in die Mensa der HSD essen gehen kann? | 2
+Wann ist die Mensa an der HSD offen? | 2
+Was würden die Öffnungszeiten der Mensa sein? | 2
+Wann würde die Mensa offen sein? | 2
+Ich will wissen wann die Mensa offen sein würde? | 2
+Wann könnten wir in die Mensa essen gehen? | 2
+Wann könnte ich in die Mensa essen gehen? | 2
+Wann ist die Mensa offen? | 2
+Ich wollte fragen wann die Mensa offen ist? | 2
+Ich wollte wissen, wann die Mensa offen ist. | 2
+Kannst du mir sagen, wann die Mensa an der HSD öffnet und schließt? | 2
+Könntest du mir sagen, wann die Mensa an der HSD öffnet und schließt? | 2
+Könntest du mir sagen, wann die Mensa an der HSD öffnet? | 2
+Könnten Sie mir sagen, wann die Mensa an der HSD öffnet? | 2
+Können Sie mir sagen, wann die Mensa an der HSD öffnet? | 2
+Können Sie mir bitte sagen, wann die Mensa öffnet und schließt? | 2
+Könntest du mir bitte die Öffnungszeiten der Mensa an der HSD geben? | 2
+Könntest du mir bitte die Öffnungszeiten der Mensa an der HSD sagen? | 2
+Kannst du mir bitte die Öffnungszeiten der Mensa an der HSD geben? | 2
+Kannst du mir bitte die Öffnungszeiten der Mensa an der HSD sagen? | 2
+Könnten Sie mir bitte die Öffnungszeiten der Mensa an der HSD geben? | 2
+Könnten Sie mir bitte die Öffnungszeiten der Mensa an der HSD sagen? | 2
+Können Sie mir bitte die Öffnungszeiten der Mensa an der HSD geben? | 2
+Können Sie mir bitte die Öffnungszeiten der Mensa an der HSD sagen? | 2
+Könntest du mir bitte die Öffnungszeiten der Mensa geben? | 2
+Könntest du mir bitte die Öffnungszeiten der Mensa sagen? | 2
+Kannst du mir bitte die Öffnungszeiten der Mensa geben? | 2
+Kannst du mir bitte die Öffnungszeiten der Mensa sagen? | 2
+Könnten Sie mir bitte die Öffnungszeiten der Mensa geben? | 2
+Könnten Sie mir bitte die Öffnungszeiten der Mensa sagen? | 2
+Können Sie mir bitte die Öffnungszeiten der Mensa geben? | 2
+Können Sie mir bitte die Öffnungszeiten der Mensa sagen? | 2
+Ich wollte Sie über die Öffnungszeiten der Mensa erfragen? | 2
+Was wären dir Öffnungszeiten der Mensa an der HSD? | 2
+Wie lange hat die Mensa an der HSD offen? | 2
+Ich wollte fragen, wie lange die Mensa an der HSD offen hat? | 2
+Was wären die Öffnungszeiten der Mensa? | 2
+Was wären die Öffnungszeiten der Mensa an der HSD? | 2
+Was sind die Öffnungszeiten der Mensa an der HSD? | 2
+Um wie viel Uhr schließt die Mensa an der HSD? | 2
+Ich wollte wissen, um wie viel Uhr die Mensa schließt? | 2
+Ich wollte wissen, um wie viel Uhr die Mensa der HSD schließt? | 2
+Ich wollte wissen, um wie viel Uhr die Mensa öffnet? | 2
+Ich wollte wissen, wann die Mensa der HSD öffnet? | 2
+Ich wollte wissen, wann die Mensa der HSD schließt? | 2
+Um wie viel Uhr öffnet die Mensa an der HSD? | 2
+Um wie viel Uhr öffnet die Mensa? | 2
+Um welche Uhrzeit würde die Mensa schließen? | 2
+Um welche Uhrzeit würde die Mensa öffnen? | 2
+Um welche Uhrzeit würde die Mensa an der HSD schließen? | 2
+Um welche Uhrzeit würde die Mensa an der HSD öffnen? | 2
+Wann würde die Mensa schließen? | 2
+Wann würde die Mensa öffnen? | 2
+Wann würde die Mensa an der HSD schließen? | 2
+Wann würde die Mensa an der HSD öffnen? | 2
+Wann würde an der HSD die Mensa schließen? | 2
+Wann würde an der HSD die Mensa öffnen? | 2
+Was sind die Öffnungszeiten der Mensa an der HSD? | 2
+Um welche Uhrzeit schließt die Mensa? | 2
+Wie lange kann man sich das Essen in der Mensa kaufen? | 2
+Bis wann hat die Mensa offen? | 2
+Bis wann hat die Mensa am Campus Derendorf offen? | 2
+Wann könnten wir zur Mensa essen gehen? | 2
+Wann könnten wir zur Mensa der HSD essen gehen? | 2
+Wann könnten wir zur Mensa am Campus Derendorf essen gehen? | 2
+Wann kann man bei Ihnen essen gehen? | 2
+Wann kann man bei an der HSD essen gehen? | 2
+Ich will fragen, wann man an der HSD essen gehen kann? | 2
+Mich interessiert, wann man an der HSD essen gehen kann? | 2
+Wann können wir zur Mensa zum Essen gehen? | 2
+Wann kann man zur Mensa zum Essen gehen? | 2
+Mich interessiert, um welche Uhrzeit die Mensa der HSD schließt? | 2
+Um welche Uhrzeit schließt die Mensa an der HSD? | 2
+Wann schließt die Mensa an der HSD? | 2
+Wann schließt die Mensa? | 2
+Wir wollen in die Mensa essen gehen, wann hat sie offen? | 2
+Wir wollen in die Mensa essen gehen, wann ist sie geöffnet? | 2
+Wann kann ich in die Mensa essen gehen? | 2
+Ich wollte fragen, wann ich in die Mensa essen gehen kann? | 2
+Wann kann man in die Mensa essen gehen? | 2
+Wann hat die Mensa am Campus Derendorf offen? | 2
+Wann ist die Mensa am Campus Derendorf geöffnet? | 2
+Wann ist die Mensa am Campus geöffnet? | 2
+Ich würde gerne Informationen über die Öffnungszeiten der Mensa erhalten. | 2
+Ich würde gerne Informationen über die Öffnungszeiten der Mensa der HSD erhalten. | 2
+Ist die Mensa an Wochenenden offen? | 2
+Ist die Mensa in der Vorlesungsfreien Zeit offen? | 2
+Ist die Mensa in den Semesterferien offen? | 2
+Wie lange ist die Mensa heute offen? | 2
+Wie lange ist die Mensa an der HSD heute offen? | 2
+Wie lange ist es möglich in der Mensa zu essen? | 2
+Kannst du mir die Öffnungszeiten der Mensa sagen? | 2
+Ich wollte die Öffnungszeiten der Mensa erfragen? | 2
+Kannst du mir die Öffnungszeiten der Mensa nennen? | 2
+Ich wollte die Öffnungszeiten der Mensa an der HSd erfragen? | 2
+Kannst du mir die Öffnungszeiten der Mensa an der HSD nennen? | 2
+Wie lange kann ich in der Mensa essen? | 2
+Wie sind die Öffnungszeiten der Mensa? | 2
+Wann kann ich in der Mensa essen gehen? | 2
+Wann ist es möglich in der Mensa essen zu gehen? | 2
+Wann ist es möglich in der Mensa an der HSD essen zu gehen? | 2
+Sind für die Mensa Öffnungszeiten vorhanden? | 2
+Haben Sie die Mensa Öffnungszeiten an der HSD vorhanden? | 2
+Verfügt die Mensa über feste Öffnungszeiten? | 2
+Verfügt die Mensa an der HSD über feste Öffnungszeiten? | 2
+Gibt es feste Öffnungszeiten für die Mensa? | 2
+Gibt es feste Öffnungszeiten für die Mensa an der HSD? | 2
+Hat die Mensa feste Öffnungszeiten? | 2
+An welchen Tagen hat die Mensa geöffnet? | 2
+An welchen Tagen hat die Mensa offen? | 2
+An welchen Tagen hat die Mensa der HSD geöffnet? | 2
+An welchen Tagen hat die Mensa der HSD offen? | 2
+An welchen Tagen hat die Mensa an der HSD geöffnet? | 2
+An welchen Tagen hat die Mensa an der HSD offen? | 2
+Von wann bis wann hat die Mensa geöffnet? | 2
+Von wann bis wann hat die Mensa offen? | 2
+Von wann bis wann kann ich in der Mensa essen gehen? | 2
+Wann kann man in der Mensa essen? | 2
+Wann hat die Mensa geöffnet? | 2
+Wann hat die Mensa der HSD geöffnet? | 2
+Wann hat die Mensa offen? | 2
+Wann hat die Mensa der HSD offen? | 2
+HSD Mensa Öffnungszeiten? | 2
+Öffnungszeiten der HSD Mensa? | 2
+Öffnungszeiten der Mensa Derendorf? | 2
+Öffnungszeiten der Mensa Campus Derendorf? | 2
+Öffnungszeiten der Mensa? | 2
+Mensa Öffnungszeiten? | 2
+Mensa Öffnungszeiten HSD? | 2
+Öffnungszeiten Mensa der HSD? | 2
+Öffnungszeiten Mensa HSD? | 2
+Wann hat die Mensa an der Hochschule Düsseldorf auf? | 2
+Wann hat die Mensa an der Uni auf? | 2
+Wann hat die Mensa an der HSD auf? | 2
+Wie lange hat die Mensa an der Uni auf? | 2
+Wie lange hat die Mensa an der HSD auf? | 2
+Wie lange kann man sich Essen in der Mensa kaufen? | 2
+Wie lange hat die Mensa an der HSD offen? | 2
+Öffnungszeiten der Mensa | 2
+Wie lange hat die Mensa auf? | 2
+Wann öffnet die Mensa der HSD? | 2
+Wann öffnet und schließt die Mensa der HSD? | 2
+Kannst du bitte mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du bitte mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könnten Sie bitte mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Können Sie bitte mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du bitte mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Könnten Sie bitte mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Können Sie bitte mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Kannst du mir bitte sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du mir bitte sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könnten Sie mir bitte sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Können Sie mir bitte sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du mir bitte sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Könnten Sie mir bitte sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Können Sie mir bitte sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Kannst du mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könnten Sie mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Können Sie mir sagen, wie viele verschiedene Fachbereiche die HSD hat? | 3
+Könntest du mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Könnten Sie mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+Können Sie mir sagen, wie viele verschiedene Fachbereiche die HSD besitzt? | 3
+An wie vielen verschiedenen Fachbereichen kann ich mich einschreiben? | 3
+An wie vielen verschiedenen Fachbereichen könnte ich an der HSD studieren gehen? | 3
+An wie vielen verschiedenen Fachbereichen könnte man an der HSD studieren gehen? | 3
+An wie vielen verschiedenen Fachbereichen könnte ich an der HSD studieren? | 3
+An wie vielen verschiedenen Fachbereichen könnte man an der HSD studieren? | 3
+Könnten Sie mir sagen, wie viele verschiedene Fachbereiche Sie besitzen? | 3
+Kannst du bitte mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du bitte mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könnten Sie bitte mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Können Sie bitte mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du bitte mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Könnten Sie bitte mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Können Sie bitte mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Kannst du mir bitte sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du mir bitte sagen, wie viele Fachbereiche die HSD hat? | 3
+Könnten Sie mir bitte sagen, wie viele Fachbereiche die HSD hat? | 3
+Können Sie mir bitte sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du mir bitte sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Könnten Sie mir bitte sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Können Sie mir bitte sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Kannst du mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könnten Sie mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Können Sie mir sagen, wie viele Fachbereiche die HSD hat? | 3
+Könntest du mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Könnten Sie mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+Können Sie mir sagen, wie viele Fachbereiche die HSD besitzt? | 3
+An wie vielen Fachbereichen kann ich mich einschreiben? | 3
+An wie vielen Fachbereichen könnte ich an der HSD studieren gehen? | 3
+An wie vielen Fachbereichen könnte man an der HSD studieren gehen? | 3
+An wie vielen Fachbereichen könnte ich an der HSD studieren? | 3
+Ich würde gerne wissen, an wie vielen Fachbereichen man an der HSD studieren könnte? | 3
+Könnten Sie mir sagen, wie viele Fachbereiche Sie besitzen? | 3
+Können Sie mir sagen, wie viele Fachbereiche Sie besitzen? | 3
+Könnten Sie mir sagen, welche Fachbereiche Sie haben? | 3
+Können Sie mir sagen, welche Fachbereiche Sie haben? | 3
+Welche Fachbereiche besitzt die HSD? | 3
+Welche verschiedenen Fakultäten hat die HSD? | 3
+Über wie viele Fakultäten verfügt die HSD? | 3
+Über wie viele Fakultäten verfügen Sie? | 3
+Wie viele Fakultäten besitzen Sie? | 3
+Anzahl der Fachbereiche an der HSD | 3
+Anzahl der Fakultäten an der HSD | 3
+Anzahl der Fachbereiche | 3
+Anzahl der Fakultäten | 3
+Ich wollte fragen, an welchen Fakultäten man sich bei Ihnen einschreiben kann? | 3
+An welchen Fakultäten könnte ich an der HSD studieren? | 3
+An welchen Fakultäten könnte man an der HSD studieren? | 3
+An welchen Fakultäten könnte ich studieren? | 3
+An welchen Fakultäten könnte man studieren? | 3
+Welche Fakultäten hätten Sie? | 3
+Welche Fakultäten hätte die HSD? | 3
+Zwischen welchen Fakultäten kann man an der HSD wählen? | 3
+Welche Fakultäten haben Sie? | 3
+Ich wollte wissen, wie viele Fakultäten Sie haben? | 3
+Ich wollte fragen, wie viele Fakultäten die HSD besitzt? | 3
+An welchen Fakultäten kann man studieren? | 3
+An welchen Fakultäten kann man an der HSD studieren? | 3
+Besitzen wir verschiedene Fakultäten? | 3
+Haben wir verschiedene Fakultäten? | 3
+Hat die HSD verschiedene Fakultäten? | 3
+Ich wollte fragen, an welchen Fakultäten man an der HSD studieren kann? | 3
+Gibt es verschiedene Fakultäten an der HSD? | 3
+Besitzen wir verschiedene Fachbereiche? | 3
+Haben wir verschiedene Fachbereiche? | 3
+Hat HSD verschiedene Fachbereiche? | 3
+Gibt es verschiedene Fachbereiche an der HSD? | 3
+Ich wollte fragen, ob es verschiedene Fachbereiche an der HSD gibt? | 3
+Hat die HSD verschiedene Fachbereiche? | 3
+Ich wollte fragen, ob die HSD verschiedene Fachbereiche hat? | 3
+Wie viele verschiedene Fakultäten gibt es an der HSD? | 3
+Wie viele verschiedene Fachbereiche gibt es an der HSD? | 3
+Wie viele Fakultäten gibt es an der HSD? | 3
+Wie viele Fachbereiche gibt es an der HSD? | 3
+HSD Fachbereiche? | 3
+Fachbereiche HSD? | 3
+Wie viele Fachbereiche hat die Hochschule Düsseldorf? | 3
+Wie viele Fachbereiche hat die Uni? | 3
+Wie viele Fachbereiche hat die HSD? | 3
+Was für Fachbereiche hat die Hochschule Düsseldorf? | 3
+Was für Fachbereiche gibt es an der HSD? | 3
+Was für Fachbereiche gibt es an der Uni? | 3
+Was für eine Anzahl an Fakultäten gibt es an der Uni? | 3
+Was für eine Anzahl an Fakultäten gibt es an der HSD? | 3
+Wie viele Fakultäten gibt es an der Uni? | 3
+Wie viele Fakultäten hat die Hochschule Düsseldorf? | 3
+wie viele Fakultäten hat die HSD? | 3
+Gibt es Fakultäten an der Hochschule Düsseldorf? | 3
+Gibt es Fakultäten an der Uni? | 3
+Gibt es Fakultäten an der HSD? | 3
+Sage bitte mir wo die HSD zu finden sei! | 4
+Sage bitte mir wo die HSD zu finden ist! | 4
+Sage mir bitte wo die HSD zu finden sei! | 4
+Sage mir bitte wo die HSD zu finden ist! | 4
+Sage mir wo zu finden sei! | 4
+Sage mir wo die HSD zu finden ist! | 4
+Sage bitte mir unter welcher Adresse die HSD zu finden sei! | 4
+Sage bitte mir unter welcher Adresse die HSD zu finden ist! | 4
+Sage mir bitte unter welcher Adresse die HSD zu finden sei! | 4
+Sage mir bitte unter welcher Adresse die HSD zu finden ist! | 4
+Sage mir unter welcher Adresse die HSD zu finden sei! | 4
+Sage mir unter welcher Adresse die HSD zu finden ist! | 4
+Was würde die HSD-Adresse sein? | 4
+Was wäre die HSD-Adresse? | 4
+Sag mir die HSD-Adresse bitte! | 4
+Sagen Sie bitte mir wie ich zur HSD komme! | 4
+Sagen Sie mir bitte wie ich zur HSD komme! | 4
+Sage mir bitte wie ich zur HSD komme! | 4
+HSD-Adresse bitte! | 4
+HSD-Adresse | 4
+Ich brauche deine Adresse! | 4
+Ich bräuchte bitte Ihre Adresse! | 4
+Ich bräuchte die HSD-Adresse! | 4
+Ich brauche die Adresse der HSD! | 4
+Sag bitte mir die Adresse der HSD! | 4
+Bitte sag mir die Adresse der HSD! | 4
+Sag mir bitte die Adresse! | 4
+Sag mir die Adresse! | 4
+Sagen Sie bitte mir Ihre Adresse! | 4
+Sagen Sie mir bitte Ihre Adresse! | 4
+Sagen Sie mir Ihre Adresse bitte! | 4
+Unter welcher Adresse könnte man die HSD finden? | 4
+Unter welcher Adresse kann man die HSD finden? | 4
+Unter welcher Adresse wären die HSD zu finden? | 4
+Unter welcher Adresse ist die HSD zu finden? | 4
+Unter welcher Adresse könnte man Sie finden? | 4
+Unter welcher Adresse kann man Sie finden? | 4
+Unter welcher Adresse wären Sie zu finden? | 4
+Unter welcher Adresse sind Sie zu finden? | 4
+Wie würde Ihre Adresse lauten? | 4
+Wie kommt man zu Ihnen? | 4
+Wie könnte man zu Ihnen kommen? | 4
+Wie ist Ihre Adresse? | 4
+Könntest du bitte mir die Adresse der HSD angeben? | 4
+Kannst du bitte mir die Adresse der HSD angeben? | 4
+Könntest du mir bitte die Adresse der HSD angeben? | 4
+Kannst du mir bitte die Adresse der HSD angeben? | 4
+Könntest du mir die Adresse der HSD angeben? | 4
+Kannst du mir die Adresse der HSD angeben? | 4
+Könnten Sie bitte mir die Adresse der HSD angeben? | 4
+Könnten Sie mir bitte die Adresse der HSD angeben? | 4
+Könnten Sie mir die Adresse der HSD angeben? | 4
+Könntest du bitte mir die Adresse der HSD geben? | 4
+Kannst du bitte mir die Adresse der HSD geben? | 4
+Könntest du mir bitte die Adresse der HSD geben? | 4
+Kannst du mir bitte die Adresse der HSD geben? | 4
+Könntest du mir die Adresse der HSD geben? | 4
+Kannst du mir die Adresse der HSD geben? | 4
+Könnten Sie bitte mir die Adresse der HSD geben? | 4
+Könnten Sie mir bitte die Adresse der HSD geben? | 4
+Könnten Sie mir die Adresse der HSD geben? | 4
+Könntest du bitte mir die Adresse der HSD sagen? | 4
+Kannst du bitte mir die Adresse der HSD sagen? | 4
+Könntest du mir bitte die Adresse der HSD sagen? | 4
+Kannst du mir bitte die Adresse der HSD sagen? | 4
+Könntest du mir die Adresse der HSD sagen? | 4
+Kannst du mir die Adresse der HSD sagen? | 4
+Könnten Sie bitte mir die Adresse der HSD sagen? | 4
+Könnten Sie mir bitte die Adresse der HSD sagen? | 4
+Könnten Sie mir die Adresse der HSD sagen? | 4
+Können Sie mir die Adresse der HSD sagen? | 4
+Könnten Sie bitte mir sagen, unter welcher Adresse die HSD zu finden ist? | 4
+Können Sie bitte mir sagen, unter welcher Adresse die HSD zu finden ist? | 4
+Könnten Sie bitte mir sagen, wo die HSD zu finden ist? | 4
+Könnten Sie mir bitte sagen, unter welcher Adresse die HSD zu finden ist? | 4
+Können Sie mir bitte sagen, unter welcher Adresse die HSD zu finden ist? | 4
+Könnten Sie mir bitte sagen, wo die HSD zu finden ist? | 4
+Können Sie mir sagen, wo die HSD zu finden ist? | 4
+Können Sie mir sagen, wo die HSD sei? | 4
+Wie könnte ich zur HSD kommen? | 4
+Können Sie mir sagen, wie ich zur HSD kommen kann? | 4
+Können Sie mir sagen, wie ich zur HSD kommen könnte? | 4
+Können Sie mir sagen, wie ich zur HSD komme? | 4
+Was würde die Adresse der HSD sein? | 4
+Ich wollte Sie fragen, was die Adresse der HSD sein könnte? | 4
+Ich wollte fragen, was die Adresse der HSD sein würde? | 4
+Wie lautet Ihre Adresse? | 4
+Ich brauche Ihre Adresse! | 4
+Ich wollte fragen, wie Ihre Adresse lautet? | 4
+Ich wollte Sie fragen, wie Ihre Adresse lautet? | 4
+Ich wollte wissen, wie die Adresse der HSD lautet? | 4
+Wie lautet die Adresse der HSD? | 4
+Wo finde ich die HSD? | 4
+Wie kommt man zur HSD? | 4
+Welche Adresse hätte die HSD? | 4
+Wie könnte ich zur Uni kommen? | 4
+Wie kann ich zur Uni kommen? | 4
+Wie kommen wir zur Uni? | 4
+Unter welcher Anschrift befindet sich die HSD? | 4
+Unter welcher Anschrift ist die HSD zu finden? | 4
+Ich will wissen, unter welcher Anschrift die HSD zu finden ist? | 4
+Ich will wissen, unter welcher Anschrift die HSD zu finden sei? | 4
+Ich will wissen, wie wir zur HSD kommen? | 4
+Ich wollte wissen, wie wir zur HSD kommen? | 4
+Wie kommen wir zur HSD? | 4
+Was ist der Standort der Uni? | 4
+Was ist der Standort der Hochschule Düsseldorf? | 4
+Was ist der Standort der HSD? | 4
+Wie ist die Straße der Uni? | 4
+Wie ist die Straße der Hochschule Düsseldorf? | 4
+Ich will wissen, wie die Straße der HSD sei? | 4
+Ich will wissen, wie die Straße der HSD ist? | 4
+Ich wollte wissen, wie die Straße der HSD sei? | 4
+Ich wollte wissen, wie die Straße der HSD ist? | 4
+Wo befindet sich die Uni? | 4
+Ich wollte wissen, wo sich die Hochschule Düsseldorf befindet? | 4
+Sage mir Sie mir bitte, wo sich die HSD befindet? | 4
+Sagen Sie mir bitte, wo sich die HSD befindet? | 4
+Sage mir, wie komme ich zur HSD? | 4
+Sagen Sie mir, wie komme ich zur HSD? | 4
+Sage mir bitte, wie komme ich zur HSD? | 4
+Wie komme ich zur Uni? | 4
+Welche Adresse hat die Hochschule Düsseldorf? | 4
+Sage mir, welche Adresse die Uni hat? | 4
+Welche Adresse hat die HSD? | 4
+Wo ist die Uni? | 4
+Wo ist die HSD? | 4
+Anschrift der Hochschule Düsseldorf? | 4
+Anschrift der HSD? | 4
